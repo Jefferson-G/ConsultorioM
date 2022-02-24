@@ -1,0 +1,20 @@
+{ 
+    "name": "Centro Médico Dr.Cesar David",  
+    "short_name": "Centro Médico Dr.Cesar David",  
+    "description": "Bienvenidos a su centro medico de confianza",  
+    "background_color": "#e09e02",  
+    "theme_color": "#3498DB",  
+    "orientation": "portrait",  
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",  
+    "scope": "./",
+    "lang": "es-MX",
+    "icons":[
+      {  
+        "src": "./img/icon-512.png",  
+        "type": "image/png",  
+        "sizes": "360x360",  
+        "purpose": "maskable"
+      }
+    ] 
+}
